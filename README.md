@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarmoliina&label=Profile%20views&color=0e75b6&style=flat" alt="oscarmoliina" /> </p> -->
 
-- 📫 How to reach me **oscar.molina.sedano@gmail.com**
+- 📫 How to reach me **oscarmolinasedano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
